@@ -6,7 +6,7 @@
 
 ## 👩‍💻  About Me
 
-<p align="left">- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">- 🔭 I’m studying Computer Science and Engineering at BRAC University <br>- 📚 I'm currently learning Neural Networks.<br>- ⚡ In my free time I watch anime and read manga.</p>
 
 ## 🛠 Language and tools
 
@@ -22,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mddaf&layout=compact&hide=html&theme=radical" alt="Top Languages" />
@@ -39,12 +40,11 @@
   </a>
 </div>
 
-## My GitHub Streaks and Contributions:
-
+<br>
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mddaf&theme=radical" alt="GitHub Streak" />
 </div>
-<div>
+<div align="left">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mddaf/mddaf/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mddaf/mddaf/output/github-snake.svg" />
