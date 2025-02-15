@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="70%" src="banner.jpg"/>
+  <img height="400" width="100%" src="banner.jpg"/>
 </div>
 
 <h1 align="center">hey there 👋 I'm Md. Dodi Al Fayed</h1>
