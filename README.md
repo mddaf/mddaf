@@ -1,6 +1,7 @@
-<div align="center">
-  <img height="400" width="100%" src="banner2.jpg"/>
+<div style="text-align: center;">
+  <img src="banner2.jpg" style="width: 100%; max-height: 400px; object-fit: cover;" alt="Banner Image">
 </div>
+
 
 <h1 align="center">hey there 👋 I'm Md. Dodi Al Fayed</h1>
 
